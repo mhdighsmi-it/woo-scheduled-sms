@@ -1,0 +1,16 @@
+{
+    "name": "soalwp/woo-scheduled-sms",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "soalwp",
+            "email": "info@soalwp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{"WOOSS\\":"./inc"}
+    },
+    "require": {}
+}
